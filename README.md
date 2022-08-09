@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huhu-miao
 - 👀 I’m interested in Front End Development, Mobile Application Development, Machine Learning, and more.
 - 🌱 I’m currently a student at UT Austin, studying in MSCSO program.
-- 💞️ I’m learning coding with Python and Java right now.
+- 💞️ I’m learning coding with Python, Java, Html, CSS and Javascript right now.
 - 📫 Welcome to reach me through hujingjingjane@gmail.com
 
 <!---
